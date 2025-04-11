@@ -18,5 +18,6 @@ Projeto de simulação naval em mundo aberto, desenvolvido no Roblox Studio com 
 3. Explore o mapa e realize missões para progredir
 
 👨‍💻 Autor
+
 **Arthur (MERC_ArthurbrYT)** 
 Desenvolvedor e criador do projeto com foco em simulação, scripting e game design no Roblox.
